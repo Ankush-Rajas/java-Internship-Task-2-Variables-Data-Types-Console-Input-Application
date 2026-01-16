@@ -1,0 +1,1 @@
+# java-Internship-Task-1-Variables-Data-Types-Console-Input-Application
